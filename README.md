@@ -8,7 +8,7 @@ Write a program that will calculate the amount of money that the beauty salon ea
 6. if (annual income &lt; amount invested) then write "sorry this is invalid"
 7. If (annual income > invested amount invested)then write "this is valid" then proceed 
 8. profit= annual income - invested amount
- 9. display profit earned per annum  
+9. display profit earned per annum  
 10. END IF 
 11. END IF
 12. END
